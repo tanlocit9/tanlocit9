@@ -9,7 +9,6 @@ I have 3+ years of software development experience and enjoy turning complex wor
 - Building **[Omni](https://github.com/tanlocit9/omni)**, a financial intelligence platform for Vietnamese stock-market data and analytics.
 - Deepening my experience with **AWS, Terraform, secure cloud architecture, and platform engineering**.
 - Exploring open-source contributions across the **Java and Kafka ecosystems**.
-- AWS Certified AI Practitioner.
 
 ## Selected projects
 
